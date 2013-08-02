@@ -90,7 +90,8 @@ John Gardner.
 
 * Step 1: learn the module or service inside out
 * Step 2: make yourself useful by contributing code, bugfixes, support etc.
-<!-- * Step 3: volunteer on the irc channel (#topstack@freenode) -->
+
+<!--- * Step 3: volunteer on the irc channel (#topstack@freenode) --->
 
 Don't forget: being a maintainer is a time investment. Make sure you will have time to make yourself available.
 You don't have to be a maintainer to make a difference on the project!
