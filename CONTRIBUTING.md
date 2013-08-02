@@ -1,7 +1,7 @@
 # Contributing to TopStack
 
 Would you like to contribute something to TopStack? Fantastic? **Here's how you can help.**
-Want to hack on Docker? Awesome! Here are instructions to get you started. They are probably not perfect, please let us know if anything feels wrong or incomplete.
+These instructions are not perfect, please let us know if you find anything wrong or incomplete.
 
 
 ## How to report issues & request enhancements
