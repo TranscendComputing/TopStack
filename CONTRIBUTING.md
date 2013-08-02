@@ -1,6 +1,6 @@
 # Contributing to TopStack
 
-Would you like to contribute something to TopStack? Fantastic? **Here's how you can help.**
+Would you like to contribute something to TopStack? Fantastic! **Here's how you can help.**
 These instructions are not perfect, please let us know if you find anything wrong or incomplete.
 
 
