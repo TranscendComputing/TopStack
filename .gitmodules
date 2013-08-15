@@ -1,0 +1,3 @@
+[submodule "TopStackResources"]
+	path = TopStackResources
+	url = git://github.com/TranscendComputing/TopStackResources
