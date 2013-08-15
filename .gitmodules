@@ -4,3 +4,6 @@
 [submodule "TopStackCore"]
 	path = TopStackCore
 	url = git://github.com/TranscendComputing/TopStackCore
+[submodule "TopStackScheduler"]
+	path = TopStackScheduler
+	url = git://github.com/TranscendComputing/TopStackScheduler
