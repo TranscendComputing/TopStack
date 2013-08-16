@@ -13,3 +13,6 @@
 [submodule "TopStackCompute"]
 	path = TopStackCompute
 	url = git://github.com/TranscendComputing/TopStackCompute
+[submodule "dasein-cloud-openstack"]
+	path = dasein-cloud-openstack
+	url = git://github.com/TranscendComputing/dasein-cloud-openstack.git
