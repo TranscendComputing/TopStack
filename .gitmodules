@@ -7,3 +7,6 @@
 [submodule "TopStackScheduler"]
 	path = TopStackScheduler
 	url = git://github.com/TranscendComputing/TopStackScheduler
+[submodule "TopStackDNS53"]
+	path = TopStackDNS53
+	url = git://github.com/TranscendComputing/TopStackDNS53
