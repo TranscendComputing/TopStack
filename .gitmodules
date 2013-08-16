@@ -37,3 +37,6 @@
 [submodule "TopStackChefRepo"]
 	path = TopStackChefRepo
 	url = git://github.com/TranscendComputing/TopStackChefRepo
+[submodule "TopStackLoadBalancer"]
+	path = TopStackLoadBalancer
+	url = git://github.com/TranscendComputing/TopStackLoadBalancer
