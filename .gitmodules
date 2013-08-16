@@ -28,3 +28,12 @@
 [submodule "TopStackMetricSearch"]
 	path = TopStackMetricSearch
 	url = git://github.com/TranscendComputing/TopStackMetricSearch
+[submodule "TopStackMessageAgent"]
+	path = TopStackMessageAgent
+	url = git://github.com/TranscendComputing/TopStackMessageAgent
+[submodule "TopStackRoot"]
+	path = TopStackRoot
+	url = git://github.com/TranscendComputing/TopStackRoot
+[submodule "TopStackChefRepo"]
+	path = TopStackChefRepo
+	url = git://github.com/TranscendComputing/TopStackChefRepo
