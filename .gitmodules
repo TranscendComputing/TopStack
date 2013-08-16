@@ -19,3 +19,12 @@
 [submodule "TopStackAutoScale"]
 	path = TopStackAutoScale
 	url = git://github.com/TranscendComputing/TopStackAutoScale
+[submodule "TopStackMonitorCommon"]
+	path = TopStackMonitorCommon
+	url = git://github.com/TranscendComputing/TopStackMonitorCommon
+[submodule "TopStackMonitor"]
+	path = TopStackMonitor
+	url = git://github.com/TranscendComputing/TopStackMonitor
+[submodule "TopStackMetricSearch"]
+	path = TopStackMetricSearch
+	url = git://github.com/TranscendComputing/TopStackMetricSearch
