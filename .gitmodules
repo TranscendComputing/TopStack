@@ -16,3 +16,6 @@
 [submodule "dasein-cloud-openstack"]
 	path = dasein-cloud-openstack
 	url = git://github.com/TranscendComputing/dasein-cloud-openstack.git
+[submodule "TopStackAutoScale"]
+	path = TopStackAutoScale
+	url = git://github.com/TranscendComputing/TopStackAutoScale
