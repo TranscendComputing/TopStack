@@ -40,3 +40,6 @@
 [submodule "TopStackLoadBalancer"]
 	path = TopStackLoadBalancer
 	url = git://github.com/TranscendComputing/TopStackLoadBalancer
+[submodule "TopStackInternal"]
+	path = TopStackInternal
+	url = git://github.com/TranscendComputing/TopStackInternal
