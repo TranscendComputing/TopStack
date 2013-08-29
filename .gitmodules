@@ -43,3 +43,9 @@
 [submodule "TopStackInternal"]
 	path = TopStackInternal
 	url = git://github.com/TranscendComputing/TopStackInternal
+[submodule "TopStackCloudFormation"]
+	path = TopStackCloudFormation
+	url = git@github.com:TranscendComputing/TopStackCloudFormation.git
+[submodule "TopStackRDS"]
+	path = TopStackRDS
+	url = git@github.com:TranscendComputing/TopStackRDS.git
